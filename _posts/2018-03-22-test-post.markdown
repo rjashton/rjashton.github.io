@@ -2,7 +2,7 @@
 layout: post
 title:  "Test post..."
 date:   2018-03-22 15:51:00 +0000
-categories: meta
+categories: blog
 ---
 I'm changing where my site is hosted, to save money and to learn something new at the same time. I'm moving from Squarespace (super easy) to a static site generated with [Jekyll][JekyllHomepage] hosted on GitHub pages (hopefully manageable learning curve).
 
