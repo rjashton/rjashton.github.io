@@ -16,7 +16,7 @@
 title: Robin Ashton dot com
 email: robin@robinashton.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This is where you'd have seen a 'site under construction' gif in the 90s... Site is in flux, I'll be putting some actual content in here at some point...
+  This is where you'd have seen a 'site under construction' gif in the 90s... Site is in flux, I'll be putting some actual content in here at some point.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://robinashton.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: rjashton
