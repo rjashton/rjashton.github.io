@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Test post..."
+date:   2018-03-22 15:51:00 +0000
+categories: meta
+---
+I'm changing where my site is hosted, to save money and to learn something new at the same time. I'm moving from Squarespace (super easy) to a static site generated with [Jekyll][https://jekyllrb.com] hosted on GitHub pages (hopefully manageable learning curve).
+
+I'll probably move some posts across but not all of them, just the more 'important' ones. 
