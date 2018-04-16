@@ -24,7 +24,7 @@ github_username:  rjashton
 
 # Build settings
 markdown: kramdown
-remote_theme: samanyougarg/hanuman
+remote_theme: dougbeney/jekyll-pug-material
 plugins:
   - jekyll-feed
 
