@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Disorganised thoughts on resolutions and some ambitions I won't feel too bad about not achieving"
+title:  "Four out of Six, Not Bad"
 date:   2017-09-21 16:00:00 +0000
 categories: blog
 ---
