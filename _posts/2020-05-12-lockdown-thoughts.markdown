@@ -5,7 +5,6 @@ date:   2020-05-12 18:00:00 +0000
 categories: blog
 ---
 
-# Lockdown thoughts
 
 The standard two year period has passed between blog posts. I think I got quite busy after writing the [last post](https://robinashton.com/blog/2018/04/16/meta-posts-best-posts.html). Funny how that works, things that aren't a priority (blogging) fall by the wayside. 
 
