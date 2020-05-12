@@ -27,7 +27,7 @@ And that's just one household. We don't have a garden to sit in and enjoy while 
 
 --- 
 
-I've been missing driving about listening to podcasts. I'm so far behind on them now and basically only have time to listen to [Do By Friday](http://dobyfriday.com) ([+ aftershow](http://giveusyourfuckingmoney.com)) and [The Adventure Zone](https://maximumfun.org/podcasts/adventure-zone/) during snatched moments doing the washing up and very occasionally during the working day when I'm doing something that can't really involve much reading.
+Having mentioned that I've been out... I've not been out very much and I am missing driving about listening to podcasts. I'm so far behind on them now and basically only have time to listen to [Do By Friday](http://dobyfriday.com) ([+ aftershow](http://giveusyourfuckingmoney.com)) and [The Adventure Zone](https://maximumfun.org/podcasts/adventure-zone/) during snatched moments doing the washing up and very occasionally during the working day when I'm doing something that can't really involve much reading.
 
 One of my most enjoyable treats pre-lockdown was on a Friday morning going through a McDonald's Drive Thru to get a breakfast meal and then consuming this delicious treat while listening to said podcasts. I miss this. 
 
